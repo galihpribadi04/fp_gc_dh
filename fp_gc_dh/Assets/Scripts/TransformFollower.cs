@@ -15,11 +15,6 @@
      [SerializeField]
      private bool lookAt = true;
 
-    void Start()
-    {
-        target = GameObject.FindGameObjectWithTag("Player").transform;
-    }
- 
      private void Update()
      {
          Refresh();
