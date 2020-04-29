@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:fp_gc_dh/Assets/External Assets/Tank Assets/Sprites.meta
 guid: 7cb1cef08f9cd6345a2cfaa163591a43
+=======
+guid: b299aa4bbc9b3bd44b522a83b7ad6c45
+>>>>>>> b7ac12e470a807f97d3dae692dcaae55e6380b03:fp_gc_dh/Assets/Sprites.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
