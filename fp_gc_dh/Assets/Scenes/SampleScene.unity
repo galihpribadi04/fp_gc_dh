@@ -690,6 +690,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _Player: {fileID: 0}
   _CannonballPrefab: {fileID: 0}
+  lookRadius: 10
   _Caravel: {fileID: 0}
   _Rigidbody: {fileID: 0}
   _WindForceCenter: {fileID: 0}

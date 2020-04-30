@@ -2,12 +2,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class AiControl : ShipControl
 {
     public GameObject _Player;
     public GameObject _CannonballPrefab;
-
+    public float lookRadius = 10f;
+    
     [Header("Components and Children")]
     public CaravelModelController _Caravel;
     public Rigidbody _Rigidbody;
