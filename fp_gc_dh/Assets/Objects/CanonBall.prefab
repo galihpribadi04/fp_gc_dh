@@ -289,6 +289,6 @@ MonoBehaviour:
     type: 3}
   m_ExplosionAudio: {fileID: 1848971512}
   m_MaxDamage: 100
-  m_ExplosionForce: 1000
+  m_ExplosionForce: 300
   m_MaxLifeTime: 2
   m_ExplosionRadius: 5
